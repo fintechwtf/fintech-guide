@@ -1,1 +1,1 @@
-# fintech-guide
+# Inside Fintech
